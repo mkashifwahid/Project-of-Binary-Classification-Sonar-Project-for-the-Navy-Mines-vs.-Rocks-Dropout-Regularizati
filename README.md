@@ -14,3 +14,15 @@ After doing this project you will know:
 
 •	How to tune the dropout level on your problem.
 
+## Getting Start
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
+
+### Prerequisites
+Python with libraries
+```
+  matplotlib
+  numpy 
+  pandas
+  keras
+  sklearn
+```
